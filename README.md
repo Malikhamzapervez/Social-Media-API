@@ -56,7 +56,7 @@ FastApi/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Malikhamzapervez/FastApi.git
+git clone https://github.com/Malikhamzapervez/Social-Media-API.git
 cd FastApi
 ```
 
